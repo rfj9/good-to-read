@@ -5,3 +5,4 @@
 # GitHub Issues  
 
 - https://github.com/net4people/bbs/issues/129
+- https://github.com/v2ray/discussion/issues/569
