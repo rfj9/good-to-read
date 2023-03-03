@@ -1,6 +1,7 @@
 # Articles  
 
 - https://tlsfingerprint.io/static/frolov2019.pdf
+- https://censorbib.nymity.ch/pdf/Alice2020a.pdf
 
 # GitHub Issues  
 
